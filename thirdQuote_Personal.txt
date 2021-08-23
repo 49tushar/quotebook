@@ -1,2 +1,3 @@
 This is the Third Quote File
-Ned Line in the master quote in master branch
+New Line in the master quote in master branch
+
